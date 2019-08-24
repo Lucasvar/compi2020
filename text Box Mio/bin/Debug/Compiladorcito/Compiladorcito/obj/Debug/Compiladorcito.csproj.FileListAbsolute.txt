@@ -1,0 +1,18 @@
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.Form1.resources
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.Properties.Resources.resources
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\bin\Debug\Compiladorcito.exe
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\bin\Debug\Compiladorcito.pdb
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.exe
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.pdb
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.exe
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.pdb
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\bin\Debug\Compiladorcito.exe
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\bin\Debug\Compiladorcito.pdb
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.Form1.resources
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.Properties.Resources.resources
+C:\Documents and Settings\Fernanda\Escritorio\Facu\Compiladores\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.csproj.GenerateResource.Cache
+F:\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.exe
+F:\Compiladorcito\Compiladorcito\obj\Debug\Compiladorcito.pdb

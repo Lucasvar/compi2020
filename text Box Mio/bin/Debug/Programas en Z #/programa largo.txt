@@ -1,0 +1,39 @@
+class ProgPpal      
+     {
+       void Main()
+         int x, y, i, iInterno, size;   
+         { 
+           x = x + 123 ; x = 12 ; i = 2;  size = 5;    
+           write(y, 7);    writeln("");    
+           writeln("Primer while");
+           while (i < 5) { write(i, 7); i = i + 1;}   writeln(""); writeln(""); 
+
+           if (x == 13) x = i * 100; 
+               else if (x == 12) x = 1234; else x = 36;  
+           write(x, 7);    writeln("");  writeln(""); 
+
+           x = 36 ; 
+           x = (-2 + (-10)*((x + i*10)/2 + 4)/2 )/(-2)/2 ; 
+           write(x, 7);    writeln("");  writeln("");    
+
+           i = 4; 
+           writeln("Segundo while");
+           while (i < size) 
+            { 
+               write(i,7);  writeln(""); 
+               iInterno = 0; 
+               if (i == 6 )  
+                {
+                  writeln("While Interno");
+                  while (iInterno < 6) 
+                    {
+                     write(iInterno, 7); 
+                     iInterno = iInterno+1;
+                    } 
+                }
+               writeln(""); 
+               i = i + 1; 
+            } /*Fin Segundo While */
+
+         } /* Fin Main */   
+}  /* Fin class ProgPpal    */

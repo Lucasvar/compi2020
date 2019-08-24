@@ -1,0 +1,10 @@
+class ProgPpal     
+/*programar la parte else del if */
+     {
+       void Main()
+         int i, x; 
+         { 
+           i = 1; 
+           if (i == 0)  writeln("then"); else writeln("else");
+         } /* Fin Main */   
+}  /* Fin class ProgPpal    */

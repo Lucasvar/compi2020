@@ -1,0 +1,13 @@
+class ProgPpal     
+     {
+       void Main()
+         int i, x; /*hola*/
+         { 
+           i = 1; 
+           x = 10;
+           i = ( ( i + 3) * 4 ) - (x / 2) * 5;  
+
+           write(i,3);
+
+         } /* Fin Main */   
+}  /* Fin class ProgPpal    */

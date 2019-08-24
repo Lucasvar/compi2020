@@ -1,0 +1,16 @@
+class ProgPpal      
+  /*const int size = 10;   */
+/*  int varGlob;  */
+     {
+       void Main()
+         int x, y, z; /*, y, i, iInterno;   */
+         { 
+           writeln("AAA"); 
+           x = 123;
+           write(x,3); writeln(""); 
+
+           y = 12 ; 
+           z = x + y * 2;    
+           write(z, 3);  /*  writeln(""); */   
+         } /* Fin Main */   
+}  /* Fin class ProgPpal    */

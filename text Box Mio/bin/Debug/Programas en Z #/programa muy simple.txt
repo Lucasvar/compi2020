@@ -1,0 +1,10 @@
+class ProgPpal     
+     {
+       void Main()
+         int i, x; 
+         { 
+           i = 1; 
+           write(i,3);
+
+         } /* Fin Main */   
+}  /* Fin class ProgPpal    */

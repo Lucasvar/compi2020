@@ -1,0 +1,35 @@
+ 0.Program = "class" ident PosDeclars "{" MethodDeclsOpc "}".
+ 1.PosDeclars =  .| Declaration  PosDeclars.
+ 2.Declaration = ConstDecl | VarDecl | ClassDecl.
+ 3.MethodDeclsOpc = . | MethodDecl MethodDeclsOpc.
+ 4.ConstDecl = "const" Type ident "=" NumberOrCharConst ";".
+ 5.NumberOrCharConst =  number | charConst ;
+ 6.VarDecl = Type  ident IdentifiersOpc ";".
+ 7.IdentifiersOpc =  . | "," ident IdentifiersOpc.
+ 8.MethodDecl = TypeOrVoid  ident "(" Pars ")" PosDeclars Block.
+ 9.TypeOrVoid  = Type | "void".
+10.Pars = . | FormPar CommaFormParsOpc. 
+11.CommaFormParsOpc =  . |  "," FormPar CommaFormParsOpc. 
+12.Type	= ident  LbrackOpc.
+13.LbrackOpc = .| "[" "]".
+14.FormPars	=	 Type ident CommaTypeIdentOpc.
+15.CommaTypeIdentOpc = .|"," Type ident .
+16.Block = "{"  StatementsOpc "}".
+17.StatementsOpc = . | Statement StatementsOpc.
+18.Statement =	Designator RestOfStatement
+	|	"if" "(" Condition ")" Statement ElseOpc
+	|	"while" "(" Condition ")" Statement
+	|	"break" ";"
+	|	"return" [ Expr ] ";"
+	|	"read" "(" Designator ")" ";"
+	|	"write" "(" Expr [ "," number ] ")" ";"
+	|	Block
+	|	";".
+19.ActPars	=	Expr  OpcCommaExpr.
+20.OpcCommaExpr = . |  "," Expr.
+21.ElseOpc = . |  "else" Statement.
+22.RestOfStatement = 
+          "=" Expr ";“
+	| "(" OpcActPars ")" ";“    // OpcActPars definido más adelante
+	| "++" ";“
+	| "--" ";".

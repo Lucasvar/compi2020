@@ -1,0 +1,11 @@
+class ProgPpal      
+{
+void Main()
+
+{
+
+writeln("AA");
+
+write(2,3);
+}
+}
