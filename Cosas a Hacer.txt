@@ -1,0 +1,5 @@
+Falta:
+
+continuar con arbol de derivacion
+implementar el "-"
+Implementar funciones

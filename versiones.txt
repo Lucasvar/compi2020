@@ -1,0 +1,17 @@
+v1.0:
+Agregado reglas writeln y write al arbol de derivacion.
+
+v1.1:
+Corregido nombres de nodos en metodo Statement.
+Corregida la gramatica.
+Corregido coloreo de write y writeln(casi).
+
+v1.2:
+Corregido nombres de nodos en metodo Block y MethodDecl.
+Write y  writeln terminados, falta arreglar Expr.
+Codigo limpio en statement, block y methoddecl.
+Para buscar rapido el metodo = PERUMETODO. Por ej: PERUBLOCK.
+
+v1.2b:
+Agregado las funcionalidades de G1: 
+-Mejoras en la interfaz y modificacion funcion "coloreaConRojo".
