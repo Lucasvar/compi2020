@@ -13,6 +13,7 @@ namespace at.jku.ssw.cc
     {
         public enum ElemDePila { esEntero, esEstring };
         public int entero;
+        public float flotante;
         public string estring;
         public ElemDePila elemDePila;
         public ElemPilita(int entero, string estring, ElemDePila elemDePila)
