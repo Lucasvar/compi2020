@@ -77,7 +77,7 @@ public class Scanner {
         Token t = new Token(line, col);
         //if ('A' <= ch && 'z' >= ch) System.Console.WriteLine(ch + " es letra ");
         //if ('0' <= ch && '9' >= ch) System.Console.WriteLine(ch + " es nro ");
-        if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) //es Letra
+        if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch == '_')) //es Letra
          ReadName(t);
         else 
          if ('0' <= ch && '9' >= ch)
